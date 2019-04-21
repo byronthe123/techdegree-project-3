@@ -1,6 +1,6 @@
 # Project 3 - Interactive Form 
 
-This project uses JavaScript to add functionality to an HTML form by adding form validation and interactivity such as disabling and enabling form elements based on the user input. To meet the project requirements, jQuery was used singularly. 
+This project uses JavaScript to add functionality to an HTML form by adding form validation and interactivity such as disabling and enabling form elements based on the user input. To meet the project requirements, jQuery was used singularly. **Aiming for exceeds expectations**.
 
 
 ## Programming Approach
